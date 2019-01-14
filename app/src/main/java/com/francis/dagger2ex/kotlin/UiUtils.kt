@@ -1,4 +1,4 @@
-package com.example.dagger2ex.kotlin
+package com.francis.dagger2ex.kotlin
 
 import android.util.Log
 import javax.inject.Inject

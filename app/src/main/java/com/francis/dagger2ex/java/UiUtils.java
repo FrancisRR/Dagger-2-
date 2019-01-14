@@ -1,4 +1,4 @@
-package com.example.dagger2ex.java;
+package com.francis.dagger2ex.java;
 
 import android.util.Log;
 

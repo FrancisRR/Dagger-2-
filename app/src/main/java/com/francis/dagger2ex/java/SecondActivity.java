@@ -1,4 +1,4 @@
-package com.example.dagger2ex.java;
+package com.francis.dagger2ex.java;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import com.example.dagger2ex.R;
+import com.francis.dagger2ex.R;
 
 import javax.inject.Inject;
 

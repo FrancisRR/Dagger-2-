@@ -1,9 +1,9 @@
-package com.example.dagger2ex.kotlin
+package com.francis.dagger2ex.kotlin
 
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.example.dagger2ex.R
+import com.francis.dagger2ex.R
 import javax.inject.Inject
 
 class MainActivity : AppCompatActivity() {
