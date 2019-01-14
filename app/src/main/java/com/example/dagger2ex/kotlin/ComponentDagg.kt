@@ -1,4 +1,4 @@
-package com.example.daggerex.kotlin
+package com.example.dagger2ex.kotlin
 
 import dagger.Component
 

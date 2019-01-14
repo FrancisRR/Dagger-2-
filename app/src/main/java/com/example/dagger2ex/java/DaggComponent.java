@@ -1,6 +1,5 @@
-package com.example.daggerex.java;
+package com.example.dagger2ex.java;
 
-import com.example.daggerex.kotlin.MainActivity;
 import dagger.Component;
 
 @Component

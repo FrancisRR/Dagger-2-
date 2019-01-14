@@ -1,4 +1,4 @@
-package com.example.daggerex
+package com.example.dagger2ex
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

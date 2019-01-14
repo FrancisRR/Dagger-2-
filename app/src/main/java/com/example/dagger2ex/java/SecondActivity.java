@@ -1,4 +1,4 @@
-package com.example.daggerex.java;
+package com.example.dagger2ex.java;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import com.example.daggerex.R;
+import com.example.dagger2ex.R;
 
 import javax.inject.Inject;
 
@@ -32,6 +32,7 @@ public class SecondActivity extends AppCompatActivity {
         ButterKnife.bind(this);
 
         DaggComponent component = DaggerDaggComponent.create();
+
         textUtils = component.getTextUtils();
         component.inject(this);
 

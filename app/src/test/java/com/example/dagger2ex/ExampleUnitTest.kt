@@ -1,4 +1,4 @@
-package com.example.daggerex
+package com.example.dagger2ex
 
 import org.junit.Test
 
