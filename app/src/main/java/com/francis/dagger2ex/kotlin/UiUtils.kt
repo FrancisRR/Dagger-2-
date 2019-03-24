@@ -4,7 +4,7 @@ import android.util.Log
 import javax.inject.Inject
 
 
-open class UiUtils @Inject constructor() {
+class UiUtils @Inject constructor() {
 
 
     fun getString() = "Francis"
